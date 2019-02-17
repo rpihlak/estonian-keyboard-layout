@@ -6,9 +6,11 @@ Estonian keyboard layout bundle for macOS. The keyboard layout is created with
 The keyboard layout is cloned from the official Estonian keyboard layout. The
 following characters are added:
 
-* ´ (Acute accent)
-* ` (Grave accent)
-* ^ (Circumflex accent or Caret)
+| Swedish Key Combination | Character                      |
+| ----------------------- | ------------------------------ |
+| ´                       | ´ (Acute accent)               |
+| ⇧ + ´                   | ` (Grave accent)               |
+| ⌥ + Ä                   | ^ (Circumflex accent or Caret) |
 
 ## Installation
 
